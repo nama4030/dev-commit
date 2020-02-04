@@ -4,6 +4,10 @@ body {
   color: white;
 }
 
+p{
+	text-align: center;
+}
+
 #scrolly{
 	color: white;
 
