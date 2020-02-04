@@ -46,7 +46,9 @@ p{
 }
 
 #steamimg{
-	
+
+	max-width: 50%;
+	text-align: center;
 }
 
 footer{
