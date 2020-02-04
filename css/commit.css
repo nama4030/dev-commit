@@ -28,6 +28,11 @@ p{
 
 #ytimg{
 	max-width: 50%;
+	text-align: center;
+
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 footer{
