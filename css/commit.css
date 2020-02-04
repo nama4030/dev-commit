@@ -68,6 +68,11 @@ p{
   	margin-right: auto;
 }
 
+#steamimg:hover{
+	max-width: 60%;
+	transition: 0.5s;
+}
+
 footer{
 	text-align: center;
 }
