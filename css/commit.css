@@ -51,6 +51,11 @@ p{
   	margin-right: auto;
 }
 
+#musicimg:hover{
+	max-width: 60%;
+	transition: 0.5s;
+}
+
 #steamimg{
 
 	max-width: 40%;
