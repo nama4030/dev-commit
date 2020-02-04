@@ -36,6 +36,10 @@ p{
   	margin-right: auto;
 }
 
+#ytimg:hover{
+	max-width: 60%;
+}
+
 #musicimg{
 	max-width: 50%;
 	text-align: center;
