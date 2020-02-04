@@ -1,6 +1,6 @@
 # Commitment Project!
 
-I choose to represent some of my favortie sports, music and games through the use of implementing embbed videos on the webpage.
+I choose to represent some of my favortie sports, music and games through the use of implementing embbed videos on the webpage. Putting over 100 commits onto github was not an easy task!
 
 ## Project description from Canvas
 
