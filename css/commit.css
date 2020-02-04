@@ -2,6 +2,11 @@ body {
   background-color: black;
 }
 
+#scrolly{
+	color: white;
+
+}
+
 #channel{
 	text-align: center;
 }
